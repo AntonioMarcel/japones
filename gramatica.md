@@ -58,8 +58,11 @@ afirmação: [fulano] wa [ciclano] ni [coisa] wo moraimasu.
 - afirmação: [raiz] + mashita
 - negação: [raiz] + masendeshita 
 
-kinou, bijutsukan ni ikimashita.
-eki no chikaku ni kouen wa arimasendeshita.
+**Exemplos**
+- kinou, bijutsukan ni ikimashita.
+- eki no chikaku ni kouen wa arimasendeshita.
 
 Presente / futuro : verbo com shimasu 
 ver dúvidas partículas p. 138 rikai 
+montar lista de adjtivos i e na com a IA 
+10m fazendo o rikai, p. 139 (ex. 2)  
